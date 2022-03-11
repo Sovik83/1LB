@@ -1,0 +1,17 @@
+C:\Users\sovik\source\repos\LB1\LB1\bin\Debug\net6.0-windows\LB1.exe
+C:\Users\sovik\source\repos\LB1\LB1\bin\Debug\net6.0-windows\LB1.deps.json
+C:\Users\sovik\source\repos\LB1\LB1\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+C:\Users\sovik\source\repos\LB1\LB1\bin\Debug\net6.0-windows\LB1.dll
+C:\Users\sovik\source\repos\LB1\LB1\bin\Debug\net6.0-windows\LB1.pdb
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.Form1.resources
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfoInputs.cache
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfo.cs
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.dll
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\refint\LB1.dll
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.pdb
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\LB1.genruntimeconfig.cache
+C:\Users\sovik\source\repos\LB1\LB1\obj\Debug\net6.0-windows\ref\LB1.dll
